@@ -1,7 +1,7 @@
 ---
 home: true
 title: 234
-heroImage: 
+heroImage: https://cdn.jsdelivr.net/gh/wwangyu2/my-image-host@gh-pages/sexy-girl/周麟嘉.jpg
 
 actions:
   - text: Get Started
