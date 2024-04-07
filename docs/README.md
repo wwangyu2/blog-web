@@ -1,7 +1,7 @@
 ---
 home: true
 title: 234
-heroImage: https://wangyu2018.eu.org/sexy-girl/周麟嘉.jpg
+heroImage: https://image.wangyu2018.eu.org/sexy-girl/周麟嘉.jpg
 
 actions:
   - text: Get Started
