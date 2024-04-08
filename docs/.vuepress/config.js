@@ -18,9 +18,14 @@ export default defineUserConfig({
     logo: 'https://vuejs.press/images/hero.png',
 
     navbar: [
-      { text: '首页', link: '/' },
-      { text: '知识', link: '/Get-started' },
-      // { text: '实验', link: '/get-started1'}
+      { 
+        text: '首页', 
+        link: '/' 
+      },
+      { 
+        text: '编程', 
+        link: '/Get-started' 
+      },
     ],  
 
     
